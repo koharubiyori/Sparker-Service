@@ -1,0 +1,7 @@
+﻿ExitWindowsEx
+SetSuspendState
+OpenProcessToken
+GetCurrentProcess
+LookupPrivilegeValue
+AdjustTokenPrivileges
+CloseHandle
